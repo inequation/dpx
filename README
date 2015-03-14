@@ -1,7 +1,8 @@
 
 SMPTE DPX v2 Image Format reader/writer
 Version 0.5, January 9, 2009
-http://dpx.googlecode.com
+https://github.com/inequation/dpx
+Original author: Patrick A. Palmer
 
 DPX image reader / writer library written in portable C++.
 
